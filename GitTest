@@ -1,0 +1,4 @@
+git init
+git clone /mydocments/gitfiles/gittest01
+git add Teste01
+git commit -m " Apenas um teste"
